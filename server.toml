@@ -1,0 +1,141 @@
+name = "SMP7"
+mc_version = "1.20.2"
+
+[jar]
+type = "fabric"
+loader = "latest"
+installer = "latest"
+
+[variables]
+SERVER_NAME = "§dSMP7"
+PORT = "25565"
+ENABLE_WHITELIST = "true"
+
+[launcher]
+aikars_flags = true
+proxy_flags = false
+nogui = true
+eula_args = true
+
+[[mods]]
+type = "modrinth"
+id = "audioplayer"
+version = "sWu45rBH"
+
+[[mods]]
+type = "modrinth"
+id = "fabric-api"
+version = "FhOnpSMY"
+
+[[mods]]
+type = "modrinth"
+id = "ferrite-core"
+version = "unerR5MN"
+
+[[mods]]
+type = "modrinth"
+id = "lithium"
+version = "qdzL5Hkg"
+
+[[mods]]
+type = "modrinth"
+id = "no-chat-reports"
+version = "xQyq2W5g"
+
+[[mods]]
+type = "modrinth"
+id = "simple-voice-chat"
+version = "5XcFdUYz"
+
+[[mods]]
+type = "modrinth"
+id = "lazydfu"
+version = "4SHylIO9"
+
+[[worlds.world.datapacks]]
+type = "url"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/afk-display"
+filename = "afk-display.zip"
+desc = "AFK Display"
+
+[[worlds.world.datapacks]]
+type = "url"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/armor-statues"
+filename = "armor-statues.zip"
+desc = "Armor Statues"
+
+[[worlds.world.datapacks]]
+type = "url"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/coordinates-hud"
+filename = "coordinates-hud.zip"
+desc = "Coordinates HUD"
+
+[[worlds.world.datapacks]]
+type = "url"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/more-mob-heads"
+filename = "more-mob-heads.zip"
+desc = "More Mob Heads"
+
+[[worlds.world.datapacks]]
+type = "url"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/multiplayer-sleep"
+filename = "multiplayer-sleep.zip"
+desc = "Multiplayer Sleep"
+
+[[worlds.world.datapacks]]
+type = "url"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/nether-portal-coords"
+filename = "nether-portal-coords.zip"
+desc = "Nether Portal Coords"
+
+[[worlds.world.datapacks]]
+type = "url"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/player-head-drops"
+filename = "player-head-drops.zip"
+desc = "Player Head Drops"
+
+[[worlds.world.datapacks]]
+type = "url"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/silence-mobs"
+filename = "silence-mobs.zip"
+desc = "Silence Mobs"
+
+[[worlds.world.datapacks]]
+type = "url"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/track-raw-statistics"
+filename = "track-raw-statistics.zip"
+desc = "Track Raw Statistics"
+
+[[worlds.world.datapacks]]
+type = "url"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/track-statistics"
+filename = "track-statistics.zip"
+desc = "Track Statistics"
+
+[[worlds.world.datapacks]]
+type = "ghrel"
+repo = "Stardust-Labs-MC/Terralith"
+tag = "v2.4.8"
+asset = "first"
+
+[[worlds.world.datapacks]]
+type = "ghrel"
+repo = "Stardust-Labs-MC/Incendium"
+tag = "v5.3.3"
+asset = "first"
+
+[[worlds.world.datapacks]]
+type = "ghrel"
+repo = "Stardust-Labs-MC/Nullscape"
+tag = "v1.2.3"
+asset = "first"
+
+[[worlds.world.datapacks]]
+type = "ghrel"
+repo = "Stardust-Labs-MC/Structory"
+tag = "v1.3.3"
+asset = "first"
+
+[markdown]
+files = ["README.md"]
+auto_update = true

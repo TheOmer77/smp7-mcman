@@ -1,9 +1,5 @@
 
-# mcman: Exclude mcman build outputs
-**/server
-# mcman: Exclude env secrets
+**/server/*
+!**/server/server-icon.png
+
 .env
-# mcman: Exclude exported mrpacks
-*.mrpack
-# mcman: Exclude exported packs
-*.zip

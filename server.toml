@@ -7,11 +7,11 @@ loader = "latest"
 installer = "latest"
 
 [variables]
-SERVER_NAME = "§dSMP7"
 PORT = "25565"
-SEED = "7716888065906398998"
-DIFFICULTY = "hard"
 ENABLE_WHITELIST = "true"
+DIFFICULTY = "hard"
+SEED = "7716888065906398998"
+MOTD = "                      <gradient:#c75bb4:#eac3e3><b>SMP7</b></gradient> • <white>1.20.2</white>"
 
 [launcher]
 aikars_flags = true
@@ -38,6 +38,11 @@ version = "unerR5MN"
 type = "modrinth"
 id = "lithium"
 version = "qdzL5Hkg"
+
+[[mods]]
+type = "modrinth"
+id = "minimotd"
+version = "3stGUvKr"
 
 [[mods]]
 type = "modrinth"

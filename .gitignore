@@ -1,5 +1,4 @@
 
-**/server/*
-!**/server/server-icon.png
+**/server
 
 .env

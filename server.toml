@@ -10,6 +10,7 @@ installer = "latest"
 SERVER_NAME = "§dSMP7"
 PORT = "25565"
 SEED = "7716888065906398998"
+DIFFICULTY = "hard"
 ENABLE_WHITELIST = "true"
 
 [launcher]

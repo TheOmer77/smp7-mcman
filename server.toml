@@ -145,6 +145,12 @@ asset = "first"
 
 [[worlds.world.datapacks]]
 type = "ghrel"
+repo = "Stardust-Labs-MC/Structory-Towers"
+tag = "v1.0.5"
+asset = "first"
+
+[[worlds.world.datapacks]]
+type = "ghrel"
 repo = "Stardust-Labs-MC/Continents"
 tag = "v1.1.3"
 asset = "first"

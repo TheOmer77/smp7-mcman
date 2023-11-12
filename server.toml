@@ -180,6 +180,11 @@ type = "modrinth"
 id = "dungeons-and-taverns-swamp-hut-rework"
 version = "fk8rxaP1"
 
+[[worlds.world.datapacks]]
+type = "modrinth"
+id = "terratonic"
+version = "c3jDjKaN"
+
 [markdown]
 files = ["README.md"]
 auto_update = true

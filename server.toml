@@ -61,61 +61,61 @@ version = "4SHylIO9"
 
 [[worlds.world.datapacks]]
 type = "url"
-url = "https://vanillatweaks-api.onrender.com/datapacks/packs/afk-display"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/afk-display?version=1.20"
 filename = "afk-display.zip"
 desc = "AFK Display"
 
 [[worlds.world.datapacks]]
 type = "url"
-url = "https://vanillatweaks-api.onrender.com/datapacks/packs/armor-statues"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/armor-statues?version=1.20"
 filename = "armor-statues.zip"
 desc = "Armor Statues"
 
 [[worlds.world.datapacks]]
 type = "url"
-url = "https://vanillatweaks-api.onrender.com/datapacks/packs/coordinates-hud"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/coordinates-hud?version=1.20"
 filename = "coordinates-hud.zip"
 desc = "Coordinates HUD"
 
 [[worlds.world.datapacks]]
 type = "url"
-url = "https://vanillatweaks-api.onrender.com/datapacks/packs/more-mob-heads"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/more-mob-heads?version=1.20"
 filename = "more-mob-heads.zip"
 desc = "More Mob Heads"
 
 [[worlds.world.datapacks]]
 type = "url"
-url = "https://vanillatweaks-api.onrender.com/datapacks/packs/multiplayer-sleep"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/multiplayer-sleep?version=1.20"
 filename = "multiplayer-sleep.zip"
 desc = "Multiplayer Sleep"
 
 [[worlds.world.datapacks]]
 type = "url"
-url = "https://vanillatweaks-api.onrender.com/datapacks/packs/nether-portal-coords"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/nether-portal-coords?version=1.20"
 filename = "nether-portal-coords.zip"
 desc = "Nether Portal Coords"
 
 [[worlds.world.datapacks]]
 type = "url"
-url = "https://vanillatweaks-api.onrender.com/datapacks/packs/player-head-drops"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/player-head-drops?version=1.20"
 filename = "player-head-drops.zip"
 desc = "Player Head Drops"
 
 [[worlds.world.datapacks]]
 type = "url"
-url = "https://vanillatweaks-api.onrender.com/datapacks/packs/silence-mobs"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/silence-mobs?version=1.20"
 filename = "silence-mobs.zip"
 desc = "Silence Mobs"
 
 [[worlds.world.datapacks]]
 type = "url"
-url = "https://vanillatweaks-api.onrender.com/datapacks/packs/track-raw-statistics"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/track-raw-statistics?version=1.20"
 filename = "track-raw-statistics.zip"
 desc = "Track Raw Statistics"
 
 [[worlds.world.datapacks]]
 type = "url"
-url = "https://vanillatweaks-api.onrender.com/datapacks/packs/track-statistics"
+url = "https://vanillatweaks-api.onrender.com/datapacks/packs/track-statistics?version=1.20"
 filename = "track-statistics.zip"
 desc = "Track Statistics"
 

@@ -22,12 +22,12 @@ eula_args = true
 [[mods]]
 type = "modrinth"
 id = "audioplayer"
-version = "sWu45rBH"
+version = "V7VEXKMb"
 
 [[mods]]
 type = "modrinth"
 id = "fabric-api"
-version = "FhOnpSMY"
+version = "qg6wQgub"
 
 [[mods]]
 type = "modrinth"
@@ -52,7 +52,7 @@ version = "xQyq2W5g"
 [[mods]]
 type = "modrinth"
 id = "simple-voice-chat"
-version = "5XcFdUYz"
+version = "9acId7S3"
 
 [[mods]]
 type = "modrinth"

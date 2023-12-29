@@ -22,7 +22,6 @@ All mods are from Modrinth.
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)            | Memory usage optimizations                                                                                                      | pguEMpy9 |
 | [LazyDFU](https://modrinth.com/mod/lazydfu)                     | Makes the game boot faster by deferring non-essential initialization                                                            | 4SHylIO9 |
 | [Lithium](https://modrinth.com/mod/lithium)                     | No-compromises game logic/server optimization mod                                                                               | nMhjKWVE |
-| [MiniMOTD](https://modrinth.com/mod/minimotd)                   | Minecraft plugin/mod to set the server list MOTD using MiniMessage for formatting, supporting RGB colors.                       | 3stGUvKr |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports)     | Makes chat unreportable (where possible)                                                                                        | tfv6A4l5 |
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | A working voice chat in Minecraft!                                                                                              | UIZXn9t1 |
 <!--end:mcman-addons-->

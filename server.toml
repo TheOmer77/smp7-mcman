@@ -46,11 +46,6 @@ version = "nMhjKWVE"
 
 [[mods]]
 type = "modrinth"
-id = "minimotd"
-version = "3stGUvKr"
-
-[[mods]]
-type = "modrinth"
 id = "no-chat-reports"
 version = "tfv6A4l5"
 

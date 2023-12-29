@@ -1,9 +1,9 @@
 name = "SMP7"
-mc_version = "1.20.2"
+mc_version = "1.20.4"
 
 [jar]
 type = "fabric"
-loader = "0.15.1"
+loader = "0.15.3"
 installer = "latest"
 
 [variables]
@@ -11,7 +11,7 @@ PORT = "25565"
 ENABLE_WHITELIST = "true"
 DIFFICULTY = "hard"
 SEED = "7716888065906398998"
-MOTD = "                      <gradient:#c75bb4:#eac3e3><b>SMP7</b></gradient> • <white>1.20.2</white>"
+MOTD = "                      <gradient:#c75bb4:#eac3e3><b>SMP7</b></gradient> • <white>1.20.4</white>"
 
 [launcher]
 aikars_flags = true
@@ -22,22 +22,27 @@ eula_args = true
 [[mods]]
 type = "modrinth"
 id = "audioplayer"
-version = "V7VEXKMb"
+version = "kI5CWPQa"
 
 [[mods]]
 type = "modrinth"
 id = "fabric-api"
-version = "fdestf2d"
+version = "JMCwDuki"
 
 [[mods]]
 type = "modrinth"
 id = "ferrite-core"
-version = "unerR5MN"
+version = "pguEMpy9"
+
+[[mods]]
+type = "modrinth"
+id = "lazydfu"
+version = "4SHylIO9"
 
 [[mods]]
 type = "modrinth"
 id = "lithium"
-version = "qdzL5Hkg"
+version = "nMhjKWVE"
 
 [[mods]]
 type = "modrinth"
@@ -47,17 +52,12 @@ version = "3stGUvKr"
 [[mods]]
 type = "modrinth"
 id = "no-chat-reports"
-version = "xQyq2W5g"
+version = "tfv6A4l5"
 
 [[mods]]
 type = "modrinth"
 id = "simple-voice-chat"
-version = "bBozWUuG"
-
-[[mods]]
-type = "modrinth"
-id = "lazydfu"
-version = "4SHylIO9"
+version = "UIZXn9t1"
 
 [[worlds.world.datapacks]]
 type = "url"
@@ -122,63 +122,63 @@ desc = "Track Statistics"
 [[worlds.world.datapacks]]
 type = "ghrel"
 repo = "Stardust-Labs-MC/Terralith"
-tag = "v2.4.8"
+tag = "v2.4.11"
 asset = "first"
 
 [[worlds.world.datapacks]]
 type = "ghrel"
 repo = "Stardust-Labs-MC/Incendium"
-tag = "v5.3.3"
+tag = "v5.3.4"
 asset = "first"
 
 [[worlds.world.datapacks]]
 type = "ghrel"
 repo = "Stardust-Labs-MC/Nullscape"
-tag = "v1.2.3"
+tag = "v1.2.4"
 asset = "first"
 
 [[worlds.world.datapacks]]
 type = "ghrel"
 repo = "Stardust-Labs-MC/Structory"
-tag = "v1.3.3"
+tag = "v1.3.4"
 asset = "first"
 
 [[worlds.world.datapacks]]
 type = "ghrel"
 repo = "Stardust-Labs-MC/Structory-Towers"
-tag = "v1.0.5"
+tag = "v1.0.6"
 asset = "first"
 
 [[worlds.world.datapacks]]
 type = "ghrel"
 repo = "Stardust-Labs-MC/Continents"
-tag = "v1.1.3"
+tag = "v1.1.4"
 asset = "first"
 
 [[worlds.world.datapacks]]
 type = "modrinth"
 id = "dungeons-and-taverns"
-version = "fZUvwQng"
+version = "cpJzZfzm"
 
 [[worlds.world.datapacks]]
 type = "modrinth"
 id = "dungeons-and-taverns-ancient-city-overhaul"
-version = "uJnNm1LG"
+version = "klEX9Ka0"
 
 [[worlds.world.datapacks]]
 type = "modrinth"
 id = "dungeons-and-taverns-pillager-outpost-rework"
-version = "SoS3zxpO"
+version = "XrGaLF3D"
 
 [[worlds.world.datapacks]]
 type = "modrinth"
 id = "dungeons-and-taverns-stronghold-rework"
-version = "FvrTLmTF"
+version = "UwVbysWq"
 
 [[worlds.world.datapacks]]
 type = "modrinth"
 id = "dungeons-and-taverns-swamp-hut-rework"
-version = "fk8rxaP1"
+version = "ONK7Fotr"
 
 [[worlds.world.datapacks]]
 type = "modrinth"

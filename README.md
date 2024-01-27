@@ -7,7 +7,7 @@
 <!--start:mcman-server-->
 | Version | Type                            | Loader   |
 | ------- | ------------------------------- | -------- |
-| 1.20.4  | [Fabric](https://fabricmc.net/) | `0.15.3` |
+| 1.20.4  | [Fabric](https://fabricmc.net/) | `0.15.6` |
 <!--end:mcman-server-->
 
 ## Mods
@@ -17,13 +17,13 @@ All mods are from Modrinth.
 <!--start:mcman-addons-->
 | Name                                                            | Description                                                                                                                     | Version  |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [AudioPlayer](https://modrinth.com/mod/audioplayer)             | Put your own audio files on music discs!                                                                                        | kI5CWPQa |
-| [Fabric API](https://modrinth.com/mod/fabric-api)               | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | JMCwDuki |
+| [AudioPlayer](https://modrinth.com/mod/audioplayer)             | Put your own audio files on music discs!                                                                                        | JDN9sb58 |
+| [Fabric API](https://modrinth.com/mod/fabric-api)               | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | TvatZFJI |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)            | Memory usage optimizations                                                                                                      | pguEMpy9 |
 | [LazyDFU](https://modrinth.com/mod/lazydfu)                     | Makes the game boot faster by deferring non-essential initialization                                                            | 4SHylIO9 |
 | [Lithium](https://modrinth.com/mod/lithium)                     | No-compromises game logic/server optimization mod                                                                               | nMhjKWVE |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports)     | Makes chat unreportable (where possible)                                                                                        | tfv6A4l5 |
-| [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | A working voice chat in Minecraft!                                                                                              | UIZXn9t1 |
+| [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | A working voice chat in Minecraft!                                                                                              | AHFEZvpc |
 <!--end:mcman-addons-->
 
 ## Datapacks

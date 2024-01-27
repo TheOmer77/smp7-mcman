@@ -3,7 +3,7 @@ mc_version = "1.20.4"
 
 [jar]
 type = "fabric"
-loader = "0.15.3"
+loader = "0.15.6"
 installer = "latest"
 
 [variables]
@@ -21,12 +21,12 @@ eula_args = true
 [[mods]]
 type = "modrinth"
 id = "audioplayer"
-version = "kI5CWPQa"
+version = "JDN9sb58"
 
 [[mods]]
 type = "modrinth"
 id = "fabric-api"
-version = "JMCwDuki"
+version = "TvatZFJI"
 
 [[mods]]
 type = "modrinth"
@@ -51,7 +51,7 @@ version = "tfv6A4l5"
 [[mods]]
 type = "modrinth"
 id = "simple-voice-chat"
-version = "UIZXn9t1"
+version = "AHFEZvpc"
 
 [[worlds.world.datapacks]]
 type = "url"
@@ -177,7 +177,7 @@ version = "ONK7Fotr"
 [[worlds.world.datapacks]]
 type = "modrinth"
 id = "terratonic"
-version = "c3jDjKaN"
+version = "fQODFA32"
 
 [markdown]
 files = ["README.md"]

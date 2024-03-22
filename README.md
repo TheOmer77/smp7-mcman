@@ -7,7 +7,7 @@
 <!--start:mcman-server-->
 | Version | Type                            | Loader   |
 | ------- | ------------------------------- | -------- |
-| 1.20.4  | [Fabric](https://fabricmc.net/) | `0.15.6` |
+| 1.20.4  | [Fabric](https://fabricmc.net/) | `0.15.7` |
 <!--end:mcman-server-->
 
 ## Mods

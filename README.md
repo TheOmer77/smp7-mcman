@@ -17,13 +17,13 @@ All mods are from Modrinth.
 <!--start:mcman-addons-->
 | Name                                                            | Description                                                                                                                     | Version  |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [AudioPlayer](https://modrinth.com/mod/audioplayer)             | Put your own audio files on music discs!                                                                                        | JDN9sb58 |
-| [Fabric API](https://modrinth.com/mod/fabric-api)               | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | TvatZFJI |
+| [AudioPlayer](https://modrinth.com/mod/audioplayer)             | Put your own audio files on music discs!                                                                                        | fh0XFTz3 |
+| [Fabric API](https://modrinth.com/mod/fabric-api)               | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | htRy7kbI |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core)            | Memory usage optimizations                                                                                                      | pguEMpy9 |
 | [LazyDFU](https://modrinth.com/mod/lazydfu)                     | Makes the game boot faster by deferring non-essential initialization                                                            | 4SHylIO9 |
 | [Lithium](https://modrinth.com/mod/lithium)                     | No-compromises game logic/server optimization mod                                                                               | nMhjKWVE |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports)     | Makes chat unreportable (where possible)                                                                                        | tfv6A4l5 |
-| [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | A working voice chat in Minecraft!                                                                                              | AHFEZvpc |
+| [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | A working voice chat in Minecraft!                                                                                              | aUuvK0aI |
 <!--end:mcman-addons-->
 
 ## Datapacks
